@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp2.2",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Shared",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\testwebapp.csproj",
+  "PreviewInSolutionExplorer": false
+}
